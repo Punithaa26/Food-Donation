@@ -57,3 +57,16 @@ Firebase Authentication
  
 4.Pickup and Routing:
  -Once accepted, live pickup route is shown using Google Directions API.
+
+
+
+ ZERO WASTE PROJECT
+Problem Statement
+Every day, massive quantities of edible food are wasted while millions of people remain food-insecure. This is often due to a lack of coordination between food donors (restaurants, individuals, events) and recipients (NGOs, shelters, etc). ZeroWaste is a scalable, intelligent web platform designed to bridge this gap using real-time location and managing logistics.
+Objective
+To develop a centralized food donation and rescue platform that:
+- Minimizes food wastage
+- Empowers real-time connections between donors and receivers
+- Leverages technology to automate pickups and manage logistics
+
+
