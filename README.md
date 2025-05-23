@@ -46,9 +46,7 @@ APIs and Services:<br>
 - Firebase Authentication
   
 **WORKFLOW**<br>
-
-1️⃣User Registration:<br>
-- Donors, receivers register via email/OAuth.<br>
+1️⃣User Registration:<br> Donors, receivers register via email/OAuth.<br>
 2️⃣Food Donation Posting (Donor):<br>
 - Enter food details, quantity, and donor's address.<br>
 3️⃣Real-Time Visibility (Receiver):<br>
