@@ -11,22 +11,24 @@ To develop a centralized food donation and rescue platform that:
 - Empowers real-time connections between donors and receivers
 - Leverages technology to automate pickups and manage logistics
 
-Key Features
-Donor Panel
+**Key Features**<br>
+**Donor Panel**
 - Register via email
 - Post food availability, quantity
 - Track donation status (Pending → Accepted → Picked → Verified)
-Receiver Panel (NGOs / Volunteers)
+  
+**Receiver Panel (NGOs / Volunteers)**
 - Role-based registration & verification
 - View donations on an interactive map
 - Filter by food type, freshness
 - Accept or request pickups
 - Confirm delivery with optional rating
-GeoMap Dashboard
+  
+**GeoMap Dashboard**
 - Google Maps / OpenStreetMap integrated
 - Live pickup routing using Google Directions API
 
-Tech Stack Used
+**Tech Stack Used**
 Frontend:
 - HTML, CSS, JavaScript
 - EJS (Embedded JavaScript templates)
