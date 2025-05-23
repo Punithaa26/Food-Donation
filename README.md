@@ -28,27 +28,31 @@ To develop a centralized food donation and rescue platform that:
 - Google Maps / OpenStreetMap integrated
 - Live pickup routing using Google Directions API
 
-**Tech Stack Used**
-Frontend:
+**Tech Stack Used**<br>
+Frontend:<br>
 - HTML, CSS, JavaScript
 - EJS (Embedded JavaScript templates)
-Backend:
+  
+Backend:<br>
 - Node.js
 - Express.js
-Database:
+  
+Database:<br>
 - Firebase Realtime Database (for real-time data sync and scalability)
-APIs and Services:
+  
+APIs and Services:<br>
 - Google Maps API (location display)
 - Google Directions API (pickup routing)
 - Firebase Authentication
-WORKFLOW
-1️⃣ User Registration:
-- Donors, receivers register via email/OAuth.
-2️⃣ Food Donation Posting (Donor):
-- Enter food details, quantity, and donor's address.
-3️⃣ Real-Time Visibility (Receiver):
-- Nearby NGOs/volunteers see available donations on a live map with filtering options.
-4️⃣ Pickup and Routing:
-- Once accepted, live pickup route is shown using Google Directions API.
+  
+**WORKFLOW**<br>
+1️⃣ User Registration:<br>
+- Donors, receivers register via email/OAuth.<br>
+2️⃣ Food Donation Posting (Donor):<br>
+- Enter food details, quantity, and donor's address.<br>
+3️⃣ Real-Time Visibility (Receiver):<br>
+- Nearby NGOs/volunteers see available donations on a live map with filtering options.<br>
+4️⃣ Pickup and Routing:<br>
+- Once accepted, live pickup route is shown using Google Directions API.<br>
 
 
