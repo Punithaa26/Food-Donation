@@ -1,10 +1,11 @@
 **ZERO WASTE PROJECT**<br>
+
 **Problem Statement**<br>
 Every day, massive quantities of edible food are wasted while millions of people remain food-insecure.<br>
 This is often due to a lack of coordination between food donors (restaurants, individuals, events) and recipients (NGOs, shelters, etc). <br>
 ZeroWaste is a scalable, intelligent web platform designed to bridge this gap using real-time location and managing logistics.<br>
 
-**Objective**
+**Objective**<br>
 To develop a centralized food donation and rescue platform that:
 - Minimizes food wastage
 - Empowers real-time connections between donors and receivers
