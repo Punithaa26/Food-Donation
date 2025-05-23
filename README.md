@@ -46,13 +46,13 @@ APIs and Services:<br>
 - Firebase Authentication
   
 **WORKFLOW**<br>
-1️⃣ User Registration:<br>
+1️⃣User Registration:<br>
 - Donors, receivers register via email/OAuth.<br>
-2️⃣ Food Donation Posting (Donor):<br>
+2️⃣Food Donation Posting (Donor):<br>
 - Enter food details, quantity, and donor's address.<br>
-3️⃣ Real-Time Visibility (Receiver):<br>
+3️⃣Real-Time Visibility (Receiver):<br>
 - Nearby NGOs/volunteers see available donations on a live map with filtering options.<br>
-4️⃣ Pickup and Routing:<br>
+4️⃣Pickup and Routing:<br>
 - Once accepted, live pickup route is shown using Google Directions API.<br>
 
 
